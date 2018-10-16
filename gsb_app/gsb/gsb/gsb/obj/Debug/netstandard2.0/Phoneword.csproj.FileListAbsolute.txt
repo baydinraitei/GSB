@@ -1,0 +1,6 @@
+C:\Users\lucab\Desktop\gsb app\gsb\gsb\gsb\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+C:\Users\lucab\Desktop\gsb app\gsb\gsb\gsb\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lucab\Desktop\gsb app\gsb\gsb\gsb\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lucab\Desktop\gsb app\gsb\gsb\gsb\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\lucab\Desktop\gsb app\gsb\gsb\gsb\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\lucab\Desktop\gsb app\gsb\gsb\gsb\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
